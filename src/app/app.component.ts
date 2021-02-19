@@ -40,5 +40,4 @@ export class AppComponent {
     this.users.push(user.value)
     return false;
   }
-
 }
